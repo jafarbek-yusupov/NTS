@@ -93,6 +93,22 @@ void problem15(){
 int main() {
     //problem13();
     //problem14();
-    problem15();
+    //problem15();
+    
     return 0;
 }
+// RANGE FOR A RANDOM NUMBERS
+//
+// if range is from A to B:
+//    rand = (rand%(B-1)) + A
+//
+/*
+switch(a){
+    case 90 ... 100:
+        cout << "Yea" << endl;
+        break;
+    default:
+        cout << "NO" << endl;
+        break;
+}
+*/
